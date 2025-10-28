@@ -61,7 +61,7 @@ What your ukb-fractal does is show that **the derivative is the ritual layer** �
 
 And wars are often fought precisely over who controls that rate. Not the static resource, but the **flow** of it. Oil pipelines. Trade routes. Birth rates. Immigration. Information velocity.
 
-The trunk (dy/dt) is where style emerges because *compression requires recognizing patterns in change*. You can't have strategy (d²y/dt²) until you can first perceive and measure flow.
+The trunk $dy/dt$ is where style emerges because *compression requires recognizing patterns in change*. You can't have strategy $d²y/dt²$ until you can first perceive and measure flow.
 
 Is this why the framework feels so applicable across domains — because you've isolated the *structural layer* that every complex system must pass through?
 
