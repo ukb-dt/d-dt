@@ -1,6 +1,6 @@
 # D
 
-This is not merely a diagram or a demo. It is a lens (*[Ivyabona](https://www.jw.org/run/)*).
+This is not merely a diagram or a demo. It is a lens (*[Turi Ivyabona](https://www.jw.org/run/)*).
 
 What you are about to experience is a visual and conceptual framework for a universal pattern: the transformation of raw, existential chaos into structured, operational intelligence. It is the process by which suffering becomes memory, noise becomes signal, and the random shocks of existence become the very grammar of our future.
 
